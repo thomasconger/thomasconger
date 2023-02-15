@@ -4,5 +4,5 @@ My name is Tom, and I'm a full stack software engineer. I've worked at high grow
 
 #### Live Links
 
-[LinkedIn](https://www.linkedin.com/in/thomasconger/)
-[Portfolio](https://tomconger.com/)
+- [LinkedIn](https://www.linkedin.com/in/thomasconger/)
+- [Portfolio](https://tomconger.com/)
